@@ -18,7 +18,7 @@ This project explains software processes and applies course concepts to GitHub.c
 YouTube: https://youtu.be/5sCtsx5A5yE
 
 ## Professional Post
-LinkedIn: https://www.linkedin.com/in/austin-koberstein-902526308/
+LinkedIn: [https://www.linkedin.com/in/austin-koberstein-902526308/](https://lnkd.in/p/gu5atZhU)
 
 ## Author / Course
 Austin Koberstein
