@@ -1,0 +1,11 @@
+GitHub: How GitHub uses merge queue to ship hundreds of changes every day
+https://github.blog/engineering/engineering-principles/how-github-uses-merge-queue-to-ship-hundreds-of-changes-every-day/
+
+GitHub: How GitHub uses GitHub Actions and Actions larger runners to build and test GitHub.com
+https://github.blog/engineering/infrastructure/how-github-uses-github-actions-and-actions-larger-runners-to-build-and-test-github-com/
+
+Netflix: Simone - A Distributed Simulation Service
+https://netflixtechblog.com/https-medium-com-netflix-techblog-simone-a-distributed-simulation-service-b2c85131ca1b
+
+Netflix: Learning a Personalized Homepage
+https://netflixtechblog.com/learning-a-personalized-homepage-aa8ec670359a
